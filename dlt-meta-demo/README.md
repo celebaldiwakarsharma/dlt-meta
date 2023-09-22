@@ -10,7 +10,7 @@ This Demo launches Bronze and Silver DLT pipleines with following activities:
 - Runs Bronze and Silver DLT for incremental load for CDC events
 
 ### Steps:
-1. Launch Terminal/Command promt 
+1. Launch Terminal/Command prompt 
 
 2. Install [Databricks CLI](https://docs.databricks.com/dev-tools/cli/index.html)
 
@@ -46,7 +46,7 @@ export DATABRICKS_TOKEN=<DATABRICKS TOKEN> # Paste Token here from Step#6, Accou
 # Databricks Tech Summit FY2024 DEMO:
 This demo will launch auto generated tables(100s) inside single bronze and silver DLT pipeline using dlt-meta.
 
-1. Launch Terminal/Command promt 
+1. Launch Terminal/Command prompt
 
 2. Install [Databricks CLI](https://docs.databricks.com/dev-tools/cli/index.html)
 
